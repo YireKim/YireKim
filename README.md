@@ -1,17 +1,11 @@
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" alt="Modern cat typing in anger" width="50%" align="right"> 
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" alt="Modern cat typing in anger" width="10%" align="left"> 
 
-## 🥺 TOBE: Front-end Developer
+## TOBE: Front-end Developer
 
-```javascript
-// Which came first: the chicken or the egg?
-console.log(['🥚', '🐣', '🐥', '🐔'].sort())
+<img src="https://i.imgur.com/zNHHQL1.png" alt="Modern cat typing in anger" width="100%"> 
 
-// Just found this glorious answer by JS. 
-// One of the oldest, profound question of humankind
+</br>
 
-// BEHOLD!!
->> [ '🐔', '🐣', '🐥', '🥚' ]
-```
 ### 📭 Contact
 
 [![Email](https://img.shields.io/badge/albert.abdilim@foxmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:dlfp2004@gmail.com)
@@ -34,7 +28,7 @@ console.log(['🥚', '🐣', '🐥', '🐔'].sort())
 
 </br>
 
-#### 💻 What I've been through
+### 💻 What I've been through
 ###### (still having a quarrel tho ha-ha-)
 
 ![JavaScript](https://img.shields.io/badge/-javascript-2E2E2E?style=for-the-badge&logo=javascript)
@@ -57,7 +51,7 @@ console.log(['🥚', '🐣', '🐥', '🐔'].sort())
 ![Webpack](https://img.shields.io/badge/-webpack-2E2E2E?style=for-the-badge&logo=webpack)
 
 
-##### ⚙️ My favorite opensource projects
+### ⚙️ My favorite opensource projects
 
 ![Blender](https://img.shields.io/badge/-Blender-2E2E2E?style=flat-square&logo=blender)
 ![Dark Reader](https://img.shields.io/badge/-Dark.Reader-2E2E2E?style=flat-square&logo=dark-reader)
@@ -67,12 +61,12 @@ console.log(['🥚', '🐣', '🐥', '🐔'].sort())
 ![VS Codium](http://img.shields.io/badge/-VS.Codium-2E2E2E?style=flat-square&logo=visual-studio-code)
 
 
-#### 📝 Editors
+### 📝 Editors
 ![Atom](http://img.shields.io/badge/-Atom-2E2E2E?style=flat-square&logo=atom&logoColor=66595C)
 ![VS Code](http://img.shields.io/badge/-VS.Code-2E2E2E?style=flat-square&logo=visual-studio-code&logoColor=007ACC)
 
 
-#### 👾 Design/Graphics
+### 👾 Design/Graphics
 
 ![Adobe Photoshop](http://img.shields.io/badge/-Abode.Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=ffffff)
 ![Adobe After Effects](http://img.shields.io/badge/-Adobe.After.Effects-9999FF?style=flat-square&logo=adobe-after-effects&logoColor=ffffff)
