@@ -8,7 +8,7 @@
 
 ### 📭 Contact
 
-[![Email](https://img.shields.io/badge/albert.abdilim@foxmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:dlfp2004@gmail.com)
+[![Email](https://img.shields.io/badge/dlfp2004@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:dlfp2004@gmail.com)
 
 <a href="https://www.instagram.com/yire_eli">
   <img align="center" alt="Yire Kim's Instagram link" width="48px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
@@ -50,6 +50,7 @@
 ![Redux](https://img.shields.io/badge/-redux-2E2E2E?style=for-the-badge&logo=redux&logoColor=764ABC)
 ![Webpack](https://img.shields.io/badge/-webpack-2E2E2E?style=for-the-badge&logo=webpack)
 
+</br>
 
 ### ⚙️ My favorite opensource projects
 
@@ -60,11 +61,13 @@
 ![VLC media player](https://img.shields.io/badge/-VLC.media.player-2E2E2E?style=flat-square&logo=vlc-media-player)
 ![VS Codium](http://img.shields.io/badge/-VS.Codium-2E2E2E?style=flat-square&logo=visual-studio-code)
 
+</br>
 
 ### 📝 Editors
 ![Atom](http://img.shields.io/badge/-Atom-2E2E2E?style=flat-square&logo=atom&logoColor=66595C)
 ![VS Code](http://img.shields.io/badge/-VS.Code-2E2E2E?style=flat-square&logo=visual-studio-code&logoColor=007ACC)
 
+</br>
 
 ### 👾 Design/Graphics
 
