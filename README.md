@@ -8,7 +8,7 @@
 
 ### 📭 Contact
 
-[![Email](https://img.shields.io/badge/albert.abdilim@foxmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:dlfp2004@gmail.com)
+[![Email](https://img.shields.io/badge/dlfp2004@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:dlfp2004@gmail.com)
 
 <a href="https://www.instagram.com/yire_eli">
   <img align="center" alt="Yire Kim's Instagram link" width="48px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
@@ -29,7 +29,6 @@
 </br>
 
 ### 💻 What I've been through
-###### (still having a quarrel tho ha-ha-)
 
 ![JavaScript](https://img.shields.io/badge/-javascript-2E2E2E?style=for-the-badge&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-typescript-2E2E2E?style=for-the-badge&logo=typescript)
